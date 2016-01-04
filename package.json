@@ -1,0 +1,22 @@
+{
+  "name": "node_es6_example",
+  "version": "0.0.1",
+  "description": "Node.js, Babel, ES6 example",
+  "main": "run.js",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "keywords": [
+    "node",
+    "babel",
+    "es6",
+    "example"
+  ],
+  "author": "Tomas Trajan <tomas.trajan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.3.16",
+    "babel-polyfill": "^6.3.14",
+    "babel-register": "^6.3.13"
+  }
+}
